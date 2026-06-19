@@ -339,7 +339,7 @@ Demonstrated Infrastructure as Code (IaC) deployment using CloudFormation.
 
 ## AMI
 
-![AMI](screenshots/06_AMI_Created.png)
+![AMI](06_AMI_Created.png)
 
 ## Launch Template V1
 
