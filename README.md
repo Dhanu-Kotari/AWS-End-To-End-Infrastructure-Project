@@ -347,7 +347,7 @@ Demonstrated Infrastructure as Code (IaC) deployment using CloudFormation.
 
 ## Target Group
 
-![Target Group](08_Target_Group_Created.png)
+![Target Group](08_Target_Group_Created.png.png)
 
 ## Load Balancer
 
